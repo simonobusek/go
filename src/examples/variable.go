@@ -21,6 +21,7 @@ func main() {
 	// zero value for an `int` is `0`.
 	var e int
 	fmt.Println(e)
+
 	f := "short"
 	fmt.Println(f)
 }
